@@ -5,6 +5,11 @@ A web application showcasing the inner workings of sorting algorithms.
 Implemented algorithms:
 1) Bubble sort  2) Selection sort  3) Insertion sort  4) Merge sort  5) Quick sort  6) Heap sort
 
+#Demo
+
+https://github.com/maicodee/Sorting-Visualizer/assets/68491981/6887c705-ba9f-4b57-b6fc-7cd4cd086754
+
+
 Features:
 1) Colored representation of step being executed.
   1.1) Blue:default
